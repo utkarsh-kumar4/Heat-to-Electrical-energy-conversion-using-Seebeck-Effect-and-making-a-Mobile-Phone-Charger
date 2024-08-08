@@ -71,3 +71,6 @@ This stored energy can be used later to maintain the temperature difference acro
 - **Thermal Storage Tank**: Stores excess heat for later use.
 
 ![Final Setup](images/final-setup.jpg)
+
+## Author 👤
+[Utkarsh Kumar](https://github.com/utkarsh-kumar4) 👨🏻‍💻🎓
